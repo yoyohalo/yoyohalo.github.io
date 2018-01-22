@@ -3,13 +3,35 @@
   }
   
   .dark-background {
-    background: darksalmon;
+    background: #35414a;
   }
   
-  .site-container {
+  .site-container01 {
     max-width: 1140px;
   
     /* 水平置中這個元素 */
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .logo{
+    width: 140px;
+    line-height: 80px;
+  }
+
+  .logo img{
+    width: 140px;
+  }
+
+  .banner01{
+      float:right;
+      text-align: left;
+      line-height: 80px;
+    
+  }
+  .navtop{
+      color:#fff;
+      font-size: 14px;
+      text-decoration: none;
+      padding-right 15px;
   }
